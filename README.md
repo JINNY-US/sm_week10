@@ -35,7 +35,7 @@
 >>
 >> 다음은 그 실행영상입니다.   
 
->>![사용자 정보 수정](https://user-images.githubusercontent.com/79883808/117540396-30ef7500-b04a-11eb-9436-ee0933aa4f34.mp4)
+>>[사용자 정보 수정](https://user-images.githubusercontent.com/79883808/117540396-30ef7500-b04a-11eb-9436-ee0933aa4f34.mp4)
 
 >> 변경된 비밀번호로 정상 로그인된 것을 확인할 수 있습니다.
 
