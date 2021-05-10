@@ -139,3 +139,13 @@
 >>
 
 ### (이준석, 미르자크메더브 사르더르)   
+
+동일 주소를 구분하기 위해서 기능을 넣으려고 했으나  빌드 그래들 파일에 card view 설정 및 place api 설정을 했습니다. 
+설정을 하고 프래그먼트 파일에 android:name="com.google.android.gms.location.places.ui.PlaceAutocompleteFragment" 이 부분이 오류가 납니다. 
+
+![오류1](https://user-images.githubusercontent.com/79889548/117661661-9c1b8180-b1d9-11eb-9fb6-6f92f863ceea.PNG)
+
+![빌드 그래들 1](https://user-images.githubusercontent.com/79889548/117661667-9de54500-b1d9-11eb-8d28-594671f0cc61.PNG)
+
+![빌드 그래들 2](https://user-images.githubusercontent.com/79889548/117661672-9e7ddb80-b1d9-11eb-8a66-5372bd90312a.PNG)
+
