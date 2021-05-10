@@ -21,7 +21,8 @@
 >>1. 위치정보 입력 spinner 추가
 >>
 >>크게 시/도로 구분하여 상위 지역구/ 하위지역구 두 개의 값을 spinner로 선택하여 가게의 지역구를 설정할 수 있습니다.
->>![KakaoTalk_20210510_170742185](https://user-images.githubusercontent.com/76034369/117627558-403e0200-b1b3-11eb-9b7f-4ac7a1ee758c.jpg)
+>>![KakaoTalk_20210510_170742185](https://user-images.githubusercontent.com/76034369/117631083-d889b600-b1b6-11eb-8d24-6494fda7eaf5.jpg)
+>>![KakaoTalk_20210510_1707421851](https://user-images.githubusercontent.com/76034369/117631086-d9224c80-b1b6-11eb-8661-fd82393b6641.jpg)
 >>('도' string_array)![20210510_171715](https://user-images.githubusercontent.com/76034369/117628029-ab87d400-b1b3-11eb-96b1-f05c0be34784.png)
 >>('시'string_array/ 대표로 부산만)![20210510_171734](https://user-images.githubusercontent.com/76034369/117628219-de31cc80-b1b3-11eb-937d-a4a940593f6c.png)
 
@@ -44,7 +45,8 @@
 
 >>![20210510_172931](https://user-images.githubusercontent.com/76034369/117629630-51880e00-b1b5-11eb-8c8c-c698ea47a1bf.png)
 >>
->>하지만 중단점을 이용하여, cost_array에 정상적으로 각각의 비용의 값이 담기고 있는 것을 확인하였습니다.
+>>하지만 중단점을 이용하여, cost_array에 정상적으로 각각의 비용의 값이 담기고 있는 것을 확인하였습니다.(위에서 설명한 예시와 동일하게 5만원+식당우선 모드)
+>>![20210510_173830](https://user-images.githubusercontent.com/76034369/117630855-9496b100-b1b6-11eb-9a8a-fb7bc87e116e.png)
 >>
 >>다음 주차에는 각각의 비율을 유저가 일일이 설정 할 수 있는 '상세 설정' 기능을 추가하고 지금 버그가 나서 실행에 실패한 부분을 수정할 예정입니다. 
 
