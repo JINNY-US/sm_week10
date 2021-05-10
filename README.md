@@ -59,10 +59,10 @@
 >3. 게시판 업로딩 오류   
 >>게시판 기능을 테스트 해보려고 실행을 해봤는데 로딩 화면만 뜨고 데이터베이스에는 아무런 내용이 올라가지 않는다는 것을 확인했습니다.   
 >>더불어 앱에서도 이 이후에 아무런 액션이 없는 걸로 보아 데이터베이스에 값을 넘겨줄 때 오류가 나는 것 같습니다.   
->> ![KakaoTalk_20210510_192852567](https://user-images.githubusercontent.com/57963888/117650158-53f56280-b1cb-11eb-82d3-c5fbca737641.png)
->>![KakaoTalk_20210510_192852982](https://user-images.githubusercontent.com/57963888/117650160-55268f80-b1cb-11eb-81a6-81d26c609ae1.png)   
->>![KakaoTalk_20210510_192854443](https://user-images.githubusercontent.com/57963888/117650161-55268f80-b1cb-11eb-9af6-fd7fdd48b1ce.png)
->>![KakaoTalk_20210510_192855069](https://user-images.githubusercontent.com/57963888/117650166-5657bc80-b1cb-11eb-98d5-4db5a8cd7317.png)   
+>>![KakaoTalk_20210510_192852567](https://user-images.githubusercontent.com/57963888/117650822-2957d980-b1cc-11eb-8f1c-12e710811578.png)
+>>![KakaoTalk_20210510_192852982](https://user-images.githubusercontent.com/57963888/117650832-2a890680-b1cc-11eb-837a-094990b92469.png)   
+>>![KakaoTalk_20210510_192854443](https://user-images.githubusercontent.com/57963888/117650835-2b219d00-b1cc-11eb-8997-bcdbb6e0b560.png)
+>>![KakaoTalk_20210510_192855069](https://user-images.githubusercontent.com/57963888/117650842-2bba3380-b1cc-11eb-87db-b19e1bac428a.png)   
 >>
 
 
