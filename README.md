@@ -22,8 +22,15 @@
 >>크게 시/도로 구분하여 상위 지역구/ 하위지역구 두 개의 값을 spinner로 선택하여 가게의 지역구를 설정할 수 있습니다.   
 >>![KakaoTalk_20210510_170742185](https://user-images.githubusercontent.com/76034369/117631083-d889b600-b1b6-11eb-8d24-6494fda7eaf5.jpg)   
 >
->>('도' string_array)![20210510_171715](https://user-images.githubusercontent.com/76034369/117628029-ab87d400-b1b3-11eb-96b1-f05c0be34784.png)   
->>('시'string_array/ 대표로 부산만)![20210510_171734](https://user-images.githubusercontent.com/76034369/117628219-de31cc80-b1b3-11eb-937d-a4a940593f6c.png)   
+
+>
+>('도' string_array)   
+>>![20210510_171715](https://user-images.githubusercontent.com/76034369/117628029-ab87d400-b1b3-11eb-96b1-f05c0be34784.png)   
+>>
+
+>('시'string_array/ 대표로 부산만)   
+>>![20210510_171734](https://user-images.githubusercontent.com/76034369/117628219-de31cc80-b1b3-11eb-937d-a4a940593f6c.png)   
+>>
 
 >>
 >>
